@@ -1,2 +1,0 @@
-# matplotlib_challenge
- Matplotlib
