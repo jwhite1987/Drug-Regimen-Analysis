@@ -1,5 +1,7 @@
 # The Power of Plots
 
+### ✨ [Jupyter Notebook](https://jimmywhite1987.github.io/Power-of-Plots/)
+
 * Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 
 * Use the cleaned data for the remaining steps.
