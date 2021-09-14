@@ -11,12 +11,9 @@
 
 ## Languages & Technology Used
 
-- SQL
-- SQLAlchemy
-- Jupyter Notebook
 - Python
-- Pandas
-- Flask
+- PyPlot
+- Matplotlib
 
 ## Screenshots
 ![image](/Images/screenshot1.png)
