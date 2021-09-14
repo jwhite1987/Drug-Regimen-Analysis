@@ -1,25 +1,44 @@
-# The Power of Plots
+# `Drug Regimen Analysis`
 
-### ✨ [Jupyter Notebook](https://jimmywhite1987.github.io/Power-of-Plots/)
+## Project Description
 
-* Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
+-  The goal of this project is to utilize Python's library, Matplotlib, to analyze the data from a fictional pharmaceutical company, "Pymaceuticals."
+- The dataset consists of several anti-cancer pharmaceuticals and the efficacy of each across a population of mice. The main focus of the trial is to analyze the drug of interest, Capomulin, versus other treatment regimens.
+- Using Pandas, Python, and Matplotlib, calculate the final tumor volume of each mouse across the four most promising regimens. Then, calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across the four treatments.
+- Finally, using the resulting graphs and data analysis, craft several observations.
+- Below, in the screenshots section, there are graphs of each analysis for further detail.
 
-* Use the cleaned data for the remaining steps.
 
-* Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
+## Languages & Technology Used
 
-* Generate a bar plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the total number of measurements taken for each treatment regimen throughout the course of the study.
+- SQL
+- SQLAlchemy
+- Jupyter Notebook
+- Python
+- Pandas
+- Flask
 
-* Generate a pie plot using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
+## Screenshots
+![image](/Images/screenshot1.png)
 
-* Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
+![image](/Images/screenshot2.png)
 
-* Using Matplotlib, generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
+![image](/Images/screenshot3.png)
 
-* Select a mouse that was treated with Capomulin and generate a line plot of tumor volume vs. time point for that mouse.
+![image](/Images/screenshot4.png)
 
-* Generate a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+![image](/Images/screenshot5.png)
 
-* Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot the linear regression model on top of the previous scatter plot.
+![image](/Images/screenshot6.png)
 
-* Look across all previously generated figures and tables and write at least three observations or inferences that can be made from the data. Include these observations at the top of notebook.
+![image](/Images/screenshot7.png)
+
+![image](/Images/screenshot8.png)
+
+![image](/Images/screenshot9.png)
+
+![image](/Images/screenshot.png)
+
+## Links
+- [JWhiteAnalytics.com](https://jwhiteanalytics.com)
+- [LinkedIn](https://www.linkedin.com/in/jimmywhite1987)
