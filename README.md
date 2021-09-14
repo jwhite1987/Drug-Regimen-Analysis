@@ -14,6 +14,7 @@
 - Python
 - PyPlot
 - Matplotlib
+- Jupyter Notebook
 
 ## Screenshots
 ![image](/Images/screenshot1.png)
