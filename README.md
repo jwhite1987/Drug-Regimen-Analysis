@@ -35,8 +35,6 @@
 
 ![image](/Images/screenshot8.png)
 
-![image](/Images/screenshot9.png)
-
 ![image](/Images/screenshot.png)
 
 ## Links
