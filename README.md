@@ -7,7 +7,7 @@
 - Using Pandas, Python, and Matplotlib, calculate the final tumor volume of each mouse across the four most promising regimens. Then, calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across the four treatments.
 - Finally, using the resulting graphs and data analysis, craft several observations.
 - Below, in the screenshots section, there are graphs of each analysis for further detail.
-- [Tableau Visualization](https://public.tableau.com/views/DrugRegimenAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- **[Tableau Visualization](https://public.tableau.com/views/DrugRegimenAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
 
 ## Languages & Technology Used
